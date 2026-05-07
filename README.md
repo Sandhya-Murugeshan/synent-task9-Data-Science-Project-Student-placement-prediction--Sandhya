@@ -99,7 +99,7 @@ The dataset contains engineering student academic and skill-related details.
 ##  Output Screenshots
 
 Screenshots of:
-- EDA Visualizations<img width="1920" height="1080" alt="Screenshot 2026-05-07 093337" src="https://github.com/user-attachments/assets/b3ee1580-eab8-4781-804e-b82a7cc749ee" />
+- EDA Visualizations
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-07 093413" src="https://github.com/user-attachments/assets/b5218c45-3fd9-44e8-a243-b6aad361c4c2" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-07 093422" src="https://github.com/user-attachments/assets/9cf4c6fc-0573-425d-8d43-3d2720f65a6d" />
